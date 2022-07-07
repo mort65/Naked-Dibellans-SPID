@@ -22,23 +22,23 @@ This Mod doesn't change their bodies only removes their robes, you have to insta
 
  
 
-Requirement:
+**Requirement:**
 
 
- **[SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869)**  *-for changing their outfits*
+ [SPID](https://www.nexusmods.com/skyrimspecialedition/mods/36869)  *-for changing their outfits*
 
- **[Flower Girls](https://www.nexusmods.com/skyrimspecialedition/mods/5941)** *-for flower girls version*
+ [Flower Girls](https://www.nexusmods.com/skyrimspecialedition/mods/5941) *-for flower girls version*
  
- **[SexLab](https://www.loverslab.com/topic/91861-sexlab-se-sex-animation-framework-v164c-010722/)** *-for Sexlab version*
+ [SexLab](https://www.loverslab.com/topic/91861-sexlab-se-sex-animation-framework-v164c-010722/) *-for Sexlab version*
 
- **[OStim](https://www.nexusmods.com/skyrimspecialedition/mods/40725)** *and its requirement -for OStim version*
+ [OStim](https://www.nexusmods.com/skyrimspecialedition/mods/40725) *and its requirement -for OStim version*
 
  *Default version shows a black screen instead of animations.*
 
  
 
-Recommended Mods:
+**Recommended Mods:**
 
  
 
- **Populated Cities Towns Villages SE Edition**  *-Adds more NPCs, including wandering Dibellans to the cities.*
+ [Populated Cities Towns Villages SE Edition](https://www.nexusmods.com/skyrimspecialedition/mods/2005)  *-Adds more NPCs, including wandering Dibellans to the cities.*
