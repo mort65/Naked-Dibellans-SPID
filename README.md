@@ -25,14 +25,14 @@ This Mod doesn't change their bodies only removes their robes, you have to insta
 Requirement:
 
 
- **SPID**  (for changing their outfits)
+ **SPID**  *-for changing their outfits*
 
- **Flower Girls** (for flower girls version)
- **SexLab** (for Sexlab version)
+ **Flower Girls** *-for flower girls version*
+ **SexLab** *-for Sexlab version*
 
- **OStim** and its requirement (For OStim version)
+ **OStim** *and its requirement -for OStim version*
 
-(Default version shows a black screen instead of animations.)
+*Default version shows a black screen instead of animations.*
 
  
 
@@ -40,4 +40,4 @@ Recommended Mods:
 
  
 
- **Populated Cities Towns Villages SE Edition**  Adds more NPCs, including wandering Dibellans to the cities.
+ **Populated Cities Towns Villages SE Edition**  *-Adds more NPCs, including wandering Dibellans to the cities.*
